@@ -11,5 +11,6 @@ import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
                 TelegramBotsApi telegramBotsApi = new TelegramBotsApi(DefaultBotSession.class);
                 telegramBotsApi.registerBot(java);
                 System.out.println("ishlavoti");
+                System.out.println("Mansur");
             }
 }
