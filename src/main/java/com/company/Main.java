@@ -10,8 +10,6 @@ import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
                 Java_assistant java = new Java_assistant();
                 TelegramBotsApi telegramBotsApi = new TelegramBotsApi(DefaultBotSession.class);
                 telegramBotsApi.registerBot(java);
-                System.out.println("ishlopti");
-
-
+                System.out.println("ishlavoti");
             }
 }
