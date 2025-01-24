@@ -12,5 +12,6 @@ import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
                 telegramBotsApi.registerBot(java);
                 System.out.println("ishlavoti");
                 System.out.println("Mansur");
+                System.out.println("jovoh");
             }
 }
